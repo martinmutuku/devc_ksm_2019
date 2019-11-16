@@ -9,3 +9,6 @@ origin  https://github.com/martinmutuku/devc_ksm_2019.git (fetch)
 origin  https://github.com/martinmutuku/devc_ksm_2019.git (push)
 
 git push origin master
+
+ git branch steps
+$ git checkout steps
