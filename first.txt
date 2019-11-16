@@ -1,3 +1,11 @@
 git init
 git add filename.txt
 git commit -m "Msg of the changes"
+
+git remote add origin https://github.com/martinmutuku/devc_ksm_2019.git
+git remote -v
+
+origin  https://github.com/martinmutuku/devc_ksm_2019.git (fetch)
+origin  https://github.com/martinmutuku/devc_ksm_2019.git (push)
+
+git push origin master
