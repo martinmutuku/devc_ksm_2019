@@ -1,1 +1,3 @@
-git commit
+git init
+git add filename.txt
+git commit -m "Msg of the changes"
